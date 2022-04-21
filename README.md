@@ -1,3 +1,5 @@
+This repo is the updated version of [067-React-Router-Practice-Project](https://github.com/codecygen/067-React-Router-Practice-Project). It used to have React Router V5 which is updated to V6 with this project.
+
 # About This Repository
 
 This repository belongs to my "React Router v6 Upgrade Guide" YouTube [video](...).
