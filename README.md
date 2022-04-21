@@ -1,4 +1,7 @@
-This repo is the updated version of [067-React-Router-Practice-Project](https://github.com/codecygen/067-React-Router-Practice-Project). It used to have React Router V5 which is updated to V6 with this project.
+This repo is the updated version of [067-React-Router-Practice-Project](https://github.com/codecygen/067-React-Router-Practice-Project). It used to have React Router V5 which is updated to V6 in this project.
+
+Keywords:
+- React-Lazy-Loading
 
 # About This Repository
 

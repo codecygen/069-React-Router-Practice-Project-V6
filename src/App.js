@@ -1,3 +1,6 @@
+// React-Lazy-Loading
+import React from 'react';
+
 import { Route, Routes, Navigate, Link } from 'react-router-dom';
 
 import AllQuotes from './pages/AllQuotes';
