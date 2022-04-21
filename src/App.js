@@ -5,10 +5,16 @@ import { Route, Routes, Navigate, Link } from 'react-router-dom';
 
 import AllQuotes from './pages/AllQuotes';
 import QuoteDetail from './pages/QuoteDetail';
-import NewQuote from './pages/NewQuote';
+
 import NotFound from './pages/NotFound';
 import Layout from './components/layout/Layout';
 import Comments from './components/comments/Comments';
+
+// React-Lazy-Loading
+// import NewQuote from './pages/NewQuote';
+// With this method, this New Quote adding section will be loaded
+// only when this section is needed by the client.
+const NewQuote = React.lazy(() => import('./pages/NewQuote'));
 
 function App() {
   return (
